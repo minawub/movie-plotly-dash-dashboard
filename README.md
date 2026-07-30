@@ -34,3 +34,25 @@ The project analyzes:
 
 
 # 📂 Project Structure
+# 🎬 Movie Analytics Dashboard
+
+Interactive dashboard built with:
+
+- Python
+- Pandas
+- Plotly
+- Dash
+
+
+## Features
+
+✓ Movie filtering
+✓ Interactive charts
+✓ Data analysis
+
+
+## Run locally
+
+pip install -r requirements.txt
+
+python app.py
